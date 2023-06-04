@@ -12,6 +12,9 @@ var f;
 f = "hello";
 f = 250;
 function func(age, name) {
-    console.log(name + "is" + age + "years old");
+    console.log(name + "is " + age + "years old");
 }
 func(34, "Erez");
+function func3() {
+    console.log("Hello");
+}

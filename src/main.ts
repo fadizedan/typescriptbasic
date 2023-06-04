@@ -23,3 +23,7 @@ function func( age: number, name: string){
 }
 
 func(34, "Erez");
+
+function func3(){
+    console.log("Hello");
+}
