@@ -27,3 +27,6 @@ func(34, "Erez");
 function func3(){
     console.log("Hello");
 }
+function func4(){
+    console.log("Hello 44444");
+}
